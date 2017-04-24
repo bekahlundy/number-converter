@@ -10,3 +10,5 @@ dollars"
 
 ### Test Suite
 ![passing tests](http://i.imgur.com/CcVv4M6.png)
+
+My numberConverter.js file is filled with comments explaining my process, so I have also made a numberConverter(without-comments).js file. 
