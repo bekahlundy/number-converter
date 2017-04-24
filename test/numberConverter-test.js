@@ -12,5 +12,10 @@ describe('numberConverter', () => {
   it('returns two thousand, five hundred twenty-three and 04/100', () => {
     assert.deepEqual(numberConverter(2523.04), 'two thousand, five hundred twenty-three and 04/100')
   })
-
+  it('returns three and 14/100', () => {
+    assert.deepEqual(numberConverter(Math.PI), 'three and 14/100')
+  })
+  it('returns eleven', () => {
+    assert.deepEqual(numberConverter(11), 'eleven')
+  })
 });
