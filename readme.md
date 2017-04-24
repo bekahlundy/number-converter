@@ -9,4 +9,4 @@ to "Two thousand five hundred twenty-three and 04/100
 dollars"
 
 ### Test Suite
-![passing tests](http://i.imgur.com/9O3CJgN.png)
+![passing tests](http://i.imgur.com/CcVv4M6.png)
